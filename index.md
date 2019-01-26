@@ -1,5 +1,3 @@
-**Again:** this repo contains all the files from my setup. This is a way of sharing something, but also for my own backup of knowledge about how I finished setting up some things that I had to deal before.
-
 ## Better font rendering   
 - `sudo apt install ttf-mscorefonts-installer`
 - `sudo apt install freetype2-demos`
